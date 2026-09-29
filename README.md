@@ -128,5 +128,5 @@ Feel free to fork the project and extend it with features such as:
 - password reset
 - note categories or tags
 - search functionality
-- 
+- improve UI/UX
 - deployment configuration
