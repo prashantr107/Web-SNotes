@@ -84,6 +84,8 @@ The app will start in debug mode and run on:
 ```text
 http://127.0.0.1:5000/
 ```
+## Web Application Link
+   https://personal-notes-web-appln.onrender.com/(https://personal-notes-web-appln.onrender.com/)
 
 ## Authentication and Routes
 
