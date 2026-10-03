@@ -1,4 +1,4 @@
-# AI Model Project
+# Personal Notes Web Application
 
 A simple Flask web application for user authentication and personal note management. Users can sign up, log in, create notes, and delete them. The app stores data in SQLite and uses Flask-Login for session management.
 
@@ -85,7 +85,7 @@ The app will start in debug mode and run on:
 http://127.0.0.1:5000/
 ```
 ## Web Application Link
-   https://personal-notes-web-appln.onrender.com/(https://personal-notes-web-appln.onrender.com/)
+   [https://personal-notes-web-appln.onrender.com/](https://personal-notes-web-appln.onrender.com/)
 
 ## Authentication and Routes
 
