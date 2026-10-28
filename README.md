@@ -121,7 +121,7 @@ $env:SECRET_KEY="your-secret-key"
 
 ## License
 
-This project is for educational/demo purposes.
+This project is for educational/demo purposes.....
 
 ## Contribution
 
