@@ -132,3 +132,6 @@ Feel free to fork the project and extend it with features such as:
 - search functionality
 - improve UI/UX
 - deployment configuration
+
+
+............................................................
