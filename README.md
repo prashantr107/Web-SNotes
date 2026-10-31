@@ -1,3 +1,5 @@
+........................................................................
+
 # Personal Notes Web Application
 
 A simple Flask web application for user authentication and personal note management. Users can sign up, log in, create notes, and delete them. The app stores data in SQLite and uses Flask-Login for session management.
